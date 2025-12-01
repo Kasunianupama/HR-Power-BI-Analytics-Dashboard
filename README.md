@@ -39,7 +39,7 @@ The dashboard employs a variety of custom-formatted visuals to present data clea
 5.  **Slicers:**
     * Interactive filters for `Department`, `Job Role`, and `Gender` to allow users to drill down into specific segments.
 
-## 🛠️ Data Transformation (Power Query)
+##  Data Transformation (Power Query)
 The raw data was processed using Power Query Editor to ensure data quality:
 1.  **Data Cleaning:** Split raw text data into 35 separate columns using Tab delimiters.
 2.  **Conditional Columns:** Created custom columns for logic grouping:
